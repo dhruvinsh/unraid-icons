@@ -5,4 +5,5 @@
 - [hernandito](https://github.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors)
 - [walkxhub](https://github.com/walkxhub/dashboard-icons)
 - [NX211](https://github.com/NX211/homer-icons)
+- [macedotavares](https://github.com/macedotavares/logseq-icons) for logseq icons
 
